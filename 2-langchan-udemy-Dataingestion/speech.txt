@@ -1,0 +1,7 @@
+Text to speech (TTS) is the use of software to create a sound output in the form of a spoken voice. The program that is used by programs to change text on the page to an audio output of the spoken voice is normally a text to speech engine. Blind people, people who do not see well, and people with reading disabilities can rely on good text-to-speech systems. That way they can listen to pieces of the text. TTS engines are needed for an audio output of machine translation results.
+
+Up until about 2010, there was the analytic approach: This approach uses multiply steps to convert the text to speech. Usually, an input text is transformed into phonetic writing. This says how the words are pronounced, and not how they are written. In the phonetic writing, phonemes can be identified. The system can then produce speech by putting together prerecorded or synthesized diphones. A problem is to make the language flow sound natural, what linguists call prosody.
+
+As of 2022, deep learning is used. To get a good result, neural networks are trained with many good samples.
+
+Historically, the first systems for speech synthesis used formants. Industrial Systems today, mostly use signal processing.
